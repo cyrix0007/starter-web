@@ -8,6 +8,8 @@ This is another line of text to ensure that typing speed and saccuracy is practi
 
 ## What is the meaning of all this
 
+I think it is trying to make sense of it all...
+
 ## Deployment
 
 ## How to contribute
